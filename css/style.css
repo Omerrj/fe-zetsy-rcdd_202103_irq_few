@@ -59,7 +59,6 @@ h1:hover {
   text-decoration: none;
 }
 
-
 #press {
   margin-bottom: 15px;
 }
@@ -76,5 +75,5 @@ h1:hover {
 
 footer {
   text-align: right;
-  background: #fff;
+  background: white;
 }
