@@ -30,6 +30,8 @@ h1 {
   font-weight: bold;
   font-family: "Baskerville", serif;
   border-bottom: 1px solid #ccc;
+  color: rgb(152, 173, 166);
+  text-decoration: none;
 }
 
 h2 {
@@ -47,12 +49,7 @@ p {
   font-size: 15px;
 }
 
- h1 {
-  color: rgb(152, 173, 166);
-  text-decoration: none;
-}
-
-header h1:hover {
+h1:hover {
   color: rgb(99, 116, 110);
   cursor: pointer;
 }
